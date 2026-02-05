@@ -2,16 +2,19 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `Alvin Goh`
+- **CCID:** `acgoh`
 
 ## References and Resources
 
-List any resources used here, or simply put `N/A` if not applicable.
+`N/A`
+
+## Instructions On How to Delete Cities
+
+`A dialog box will open when you click on a city, simply click the delete option and the city will be deleted.`
 
 ## Verbal Collaboration
 
 | Student Name | CCID     |
 | ------------ | -------- |
-| `<example1>` | `<CCID>` |
-| `<example2>` | `<CCID>` |
+|     `N/A`    |   `N/A`  |
